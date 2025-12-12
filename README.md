@@ -2,7 +2,7 @@
 
 > **Track the Flow of Your Attraction**
 
-A privacy-first web application for tracking and visualizing your experiences of attraction, gender identity feelings, and personal preferences over time.
+A privacy-first web application for gaining personal insight by tracking and visualizing your experiences of attraction, gender identity feelings, and personal preferences over time.
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Status: Beta](https://img.shields.io/badge/Status-Beta-yellow.svg)]()
@@ -32,6 +32,13 @@ AttraFlow is designed for individuals exploring their sexual identity and attrac
 - ✅ No third-party services
 - ✅ Complete data ownership
 
+**Important Notes**
+
+- **Data Persistence**: Your data persists only in the browser/device where you enter it
+- **No Sync**: Data is not synced across devices
+- **Browser Data**: Clearing browser data will delete all your entries
+- **Backup**: Export your data regularly as a backup
+
 [Read our full Privacy Policy](PRIVACY_POLICY.md)
 
 ---
@@ -46,7 +53,6 @@ Visit [AttraFlow.com](attraflow.com) or [AttraFlow.app](AttraFlow.app) to start 
 
 - **Attraction Levels**: Rate your attraction to your gender identity and others
 - **Gender Feelings**: Track how you feel on the gender spectrum
-- **Asexual Experiences**: Record when you feel asexual
 - **Position/Role Preferences**: Note your preferences (optional)
 - **Personal Notes**: Add context and reflections
 
@@ -156,17 +162,8 @@ If AttraFlow has helped you on your journey of self-discovery, consider:
 
 ## Contact
 
-- **Email**: [hello@multinestmedia.com]
+- **Email**: [hello@multinestmedia.com](hello@multinestmedia.com)
 - **GitHub**: [@adeliecrux](https://github.com/adeliecrux)
-
----
-
-## Important Notes
-
-- **Data Persistence**: Your data persists only in the browser/device where you enter it
-- **No Sync**: Data is not synced across devices
-- **Browser Data**: Clearing browser data will delete all your entries
-- **Backup**: Export your data regularly as a backup
 
 ---
 

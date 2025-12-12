@@ -1,7 +1,7 @@
 # Core Values
 
 ## Inclusivity
-We embrace and celebrate the full spectrum of consenting sexual identities and attractions, creating a space that supports all users on their journey of self-discovery and understanding.
+We embrace and celebrate the full spectrum of identities and attractions, creating a space that supports all users on their journey of self-discovery and understanding.
 
 ## Empowerment
 We equip users with intuitive tools to explore and visualize their experiences of attraction, fostering self-awareness and confidence in their unique identities.

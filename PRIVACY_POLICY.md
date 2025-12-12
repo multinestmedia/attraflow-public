@@ -67,7 +67,7 @@ If we ever decide to implement optional cloud backup, data sync, or analytics:
 ## Contact Information
 
 For questions about this privacy policy or the app:
-- GitHub: [Repository URL]
+- GitHub: [https://github.com/adeliecrux/attraflow-public](https://github.com/adeliecrux/attraflow-public)
 - Email: hello@multinestmedia.com
 
 ## Your Rights
