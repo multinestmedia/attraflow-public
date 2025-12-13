@@ -121,8 +121,8 @@ While this is proprietary software, we value community input:
 
 We welcome your feedback! If you encounter bugs, have feature requests, or want to share your experience:
 
-- [Submit an Issue](https://github.com/adeliecrux/attraflow-public/issues)
-- [Start a Discussion](https://github.com/adeliecrux/attraflow-public/discussions)
+- [Submit an Issue](https://github.com/multinestmedia/attraflow-public/issues)
+- [Start a Discussion](https://github.com/multinestmedia/attraflow-public/discussions)
 - [Email Us](hello@multinestmedia.com)
 
 ### Reporting Bugs
@@ -163,7 +163,7 @@ If AttraFlow has helped you on your journey of self-discovery, consider:
 ## Contact
 
 - **Email**: [hello@multinestmedia.com](hello@multinestmedia.com)
-- **GitHub**: [@adeliecrux](https://github.com/adeliecrux)
+- **GitHub**: [@multinestmedia](https://github.com/multinestmedia)
 
 ---
 
