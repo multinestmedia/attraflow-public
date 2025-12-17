@@ -87,7 +87,7 @@ All significant code contributions require:
 **Do not report security vulnerabilities in public issues.**
 
 If you discover a security vulnerability, please email:
-- **security@multinestmedia.com**
+- **hello@multinestmedia.com**
 - Or open a private security advisory on GitHub
 
 ## License
