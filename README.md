@@ -47,7 +47,7 @@ AttraFlow is designed for individuals exploring their sexual identity and attrac
 
 ### Try It Now
 
-Visit [AttraFlow.com](attraflow.com) or [AttraFlow.app](AttraFlow.app) to start using the application immediately - no sign-up required!
+Visit [attraflow.com](https://attraflow.com) or [attraflow.app](https://attraflow.app) to start using the application immediately - no sign-up required!
 
 ### What You Can Track
 
@@ -91,10 +91,12 @@ All processing happens in your browser - no data ever leaves your device.
 ## Technical Details
 
 - **Frontend**: React 19 + TypeScript + Vite
-- **UI Framework**: Tailwind CSS v4 + Shadcn/ui
+- **UI Framework**: Tailwind CSS v4 + shadcn/ui
 - **Data Storage**: TinyBase (local-first, localStorage-backed)
-- **Routing**: React Router
+- **Charts**: Recharts
+- **Routing**: React Router v7
 - **Forms**: React Hook Form
+- **Icons**: Lucide React
 
 ---
 
