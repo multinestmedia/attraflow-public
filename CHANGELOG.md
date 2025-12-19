@@ -7,8 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 2025-12-17
-
 ### Added
 
 - Initial public repository setup
@@ -24,6 +22,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Project governance and community guidelines
 - Issue templates for bug reports and feature requests
 - Pull request template for standardized contributions
-
-[0.0.1]: https://github.com/multinestmedia/attraflow-public/releases/tag/v0.0.1
 
