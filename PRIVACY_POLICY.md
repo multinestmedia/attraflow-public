@@ -44,7 +44,38 @@ We do **NOT** collect, transmit, or store any data on external servers, includin
 
 ## Third-Party Services
 
-AttraFlow does not currently integrate with any third-party services, analytics platforms, or advertising networks.
+**Error Tracking and Monitoring (Sentry):**
+
+AttraFlow uses Sentry, a third-party error tracking service, to help us identify and fix bugs, crashes, and performance issues. This service collects:
+
+- **Technical Error Data:** JavaScript errors, error messages, stack traces, and browser information
+- **Performance Metrics:** Page load times, API response times, and application performance data
+- **Usage Context:** Actions leading up to an error (anonymized breadcrumbs)
+- **Session Replays:** In case of errors, anonymized recordings of user interactions (with all text and media masked for privacy)
+
+**What Sentry Does NOT Collect:**
+
+- Your personal check-in data (attraction levels, feelings, notes)
+- Your identity, name, email, or contact information
+- Any data stored in your browser's localStorage
+- Specific content you enter into forms
+
+**Data Protection Measures:**
+
+- All error data is sent over secure HTTPS connections
+- Text content in error recordings is automatically masked
+- Error tracking can be disabled in development mode
+- We configure Sentry to minimize data collection and focus on technical diagnostics
+- Sentry's privacy policy: [https://sentry.io/privacy/](https://sentry.io/privacy/)
+
+**Why We Use Error Tracking:**
+
+Error tracking helps us provide a better experience by allowing us to:
+- Quickly identify and fix bugs before they affect many users
+- Understand which features need improvement
+- Ensure the app works reliably across different browsers and devices
+
+AttraFlow does not currently integrate with any analytics platforms or advertising networks.
 
 ## Browser Storage Limitations
 
